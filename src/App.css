@@ -1,0 +1,199 @@
+*,
+*::before,
+*::after {
+  border-width: 0;
+  border-style: solid;
+  border-color: #e2e8f0;
+}
+#demo-link-docs {
+  float: right;
+}
+#demo-title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+#demo-selected {
+  float: right;
+  display: none;
+}
+.d-flex {
+  display: flex;
+}
+.justify-content-end {
+  justify-content: flex-end;
+}
+#demo-paste-selected {
+  background-color: #ff9;
+  padding: 5px;
+}
+.demo-instance {
+  border: 1px solid #ccc;
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #eee;
+  border-radius: 0.25rem;
+}
+.demo {
+  margin-top: 20px;
+}
+.demo::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.demo-search {
+  float: left;
+  margin-bottom: 20px;
+}
+.demo input {
+  width: 400px;
+  height: 1.2rem;
+  font-size: 0.9rem;
+  padding-left: 4px;
+}
+.demo-clear {
+  cursor: pointer;
+  padding: 2px;
+}
+.ctw-window {
+  background-color: #fff;
+}
+
+.p-1 {
+  padding: 0.25rem;
+}
+
+.border-collapse {
+  border-collapse: collapse;
+}
+
+.w-full {
+  width: 100%;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.print-table {
+  border: 1px solid #424447;
+  border-collapse: collapse;
+}
+.print-table td {
+  border: 1px solid #424447;
+}
+.border {
+  border-color: #cbd5e0;
+  border-width: 1px;
+}
+.m-0 {
+  margin: 0;
+}
+.flex {
+  display: -webkit-box;
+  display: flex;
+}
+.w-5\/12 {
+  width: 41.666667%;
+}
+.w-2\/12 {
+  width: 16.666667%;
+}
+.pl-1 {
+  padding-left: 0.25rem;
+}
+.text-right {
+  text-align: right;
+}
+.pr-1 {
+  padding-right: 0.25rem;
+}
+.p-2 {
+  padding: 0.5rem;
+}
+
+.l {
+  cursor: pointer;
+}
+
+/* Spinner animation */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.spinner {
+  animation: spin 3s infinite;
+  animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+#topdiseaseswrapper {
+  position: relative;
+  /*max-width: 1240px;*/
+  width: 100%;
+  margin: 15px auto;
+  border:  1px solid #b9a9a9;
+  padding: 15px 10px;
+}
+
+#topdiseases {
+  padding-top: 35px;
+}
+
+.chartOpts {
+  position: absolute;
+  top: 15px;
+  right: 45px;
+  display: flex;
+}
+.chartPicker {
+  display: flex;
+}
+.chartPicker button {
+  width: 40px;
+  height: 40px;
+  margin-left: 8px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chart-date-range {
+  margin-left: 12px;
+  max-width: 220px;
+}
+
+.ptarrow {
+  color: black;
+  width: 24px;
+  height: 24px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red-arr {
+  color:  red;
+}
+
+.green-arr {
+  color: green;
+}
+
+.ptlabel {
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}

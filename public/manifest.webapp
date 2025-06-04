@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "sss validation",
+  "version": "2.0.0",
+  "description": "Data validation",
+  "icons": {
+    "16": "assets/icons/image001.png",
+    "48": "assets/icons/image001.png",
+    "128": "assets/icons/image001.png"
+  },
+  "developer": {
+    "name": "AICONNECT 0777108323",
+    "url": "http://dhis2.org"
+  },
+  "manifest_generated_at": "Mon Jun 02 2025 03:29:31 GMT-0700 (Pacific Daylight Time)"
+}

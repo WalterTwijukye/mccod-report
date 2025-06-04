@@ -1,0 +1,79 @@
+Element Name ,Identifier,,Data Type
+HMIS_100_  Ministry of Health National Case Number,ZKBE8Xm9DJG,,NUMBER
+HMIS_100_  NIN,MOstDqSY0gO,,TEXT
+HMIS_100_   Full Name,ZYKmQ9GPOaF,,TEXT
+HMIS_100_  Usual Residence-Village,zwKo51BEayZ,,TEXT
+HMIS_100_  Place of delivery,Z41di0TRjIu,,TEXT
+HMIS_100_  Occupation,dsiwvNQLe5n,,TEXT
+HMIS_100_  Date of Birth,RbrUuKFSqkZ,,TEXT
+HMIS_100_  Age,q7e7FOXKnOf,,Date
+HMIS_100_  Sex,e96GB4CXyd3,,NUMBER
+HMIS_100_  Date and time of Death,i8rrl8YWxLF,,Date Time 
+HMIS_100_  Report disease or condition directly leading to death-Cause of death_a,sfpqAeqKeyQ,,TEXT
+HMIS_100_  code_cause_of_death_a,zD0E77W4rFs,,TEXT
+HMIS_100_  freetext_cause_of_death_a,cSDJ9kSJkFP,,TEXT
+HMIS_100_  Time interval_a,WkXxkKEJLsg,,NUMBER
+020-100-MD01ba. Type_of_interval_for_a,Ylht9kCLSRW,,TEXT
+HMIS_100_  Report chain of events -due to� in order-Cause of death_b,zb7uTuBCPrN,,TEXT
+HMIS_100_  code_cause_of_death_b,tuMMQsGtE69,,TEXT
+HMIS_100_  freetext_cause_of_death_b,uckvenVFnwf,,TEXT
+HMIS_100_Time interval_b,fleGy9CvHYh,,NUMBER
+020-100-MD02b1a. Type_of_interval_for_b,myydnkmLfhp,,TEXT
+HMIS_100_Report chain of events -due to� in order-Cause of death_c,QGFYJK00ES7,,TEXT
+HMIS_100_  code_cause_of_death_c,C8n6hBilwsX,,TEXT
+HMIS_100_  freetext_cause_of_death_c,ZFdJRT3PaUd,,TEXT
+020-100-MD02b2b. HMIS_100_Time interval_c,hO8No9fHVd2,,NUMBER
+HMIS_100_Type_of_interval_for_c,aC64sB86ThG,,Text
+020-100-MD02a3. Report chain of events due to in order-Cause of death_d,CnPGhOcERFF,,TEXT
+HMIS_100_  code_cause_of_death_d,IeS8V8Yf40N,,TEXT
+HMIS_100_  freetext_cause_of_death_d,Op5pSvgHo1M,,TEXT
+HMIS_100_  Time interval_d,eCVDO6lt4go,,NUMBER
+020-100-MD02b3a. Type_of_interval_for_d,cmZrrHfTxW3,,TEXT
+HMIS_100_  State the underlying cause_FINAL_on the lowest used line,QTKk2Xt8KDu,,TEXT
+HMIS_100_  code_FINAL_underlying_cause,dTd7txVzhgY,,TEXT
+HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition),xeE5TQLvucB,,TEXT
+HMIS_100_  other_significant_conditions_contributing_to_death_code,ctbKSNV2cg7,,TEXT
+HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 2,mI0UjQioE7E,,TEXT
+HMIS_100_  other_significant_conditions_contributing_to_death_code 2,krhrEBwJeNC,,TEXT
+HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 3,u5ebhwtAmpU,,TEXT
+HMIS_100_  other_significant_conditions_contributing_to_death_code 3,ZKtS7L49Poo,,TEXT
+HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 4,OxJgcwH15L7,,TEXT
+HMIS_100_  other_significant_conditions_contributing_to_death_code 4,fJDDc9mlubU,,TEXT
+HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 5,Zrn8LD3LoKY,,TEXT
+HMIS_100_  other_significant_conditions_contributing_to_death_code 5,z89Wr84V2G6,,TEXT
+HMIS_100_  Was surgery performed within the last 4 weeks?,Kk0hmrJPR90,,TEXT
+HMIS_100_  If yes please specify date of surgery,j5TIQx3gHyF,,TEXT
+HMIS_100_  If yes please specify reason for surgery (disease or condition),JhHwdQ337nn,,TEXT
+HMIS_100_  Was an autopsy requested?,jY3K6Bv4o9Q,,TEXT
+HMIS_100_  If yes were the findings used in the certification?,UfG52s4YcUt,,TEXT
+HMIS_100_  Manner of death (disease),FhHPxY16vet,,TRU ONLY
+HMIS_100_  Manner of death - Assault,KsGOxFyzIs1,,TRU ONLY
+HMIS_100_  Manner of death - Could not be determined,b4yPk98om7e,,TRU ONLY
+HMIS_100_  Manner of death - Accident,gNM2Yhypydx,,TRU ONLY
+HMIS_100_  Manner of death - Legal intervention,tYH7drlbNya,,TRU ONLY
+HMIS_100_  Manner of death - Pending investigation,fQWuywOaoN2,,TRU ONLY
+HMIS_100_  Manner of death - Intentional self-harm,wX3i3gkTG4m,,TRU ONLY
+HMIS_100_  Manner of death - War,xDMX2CJ4Xw3,,TRU ONLY
+HMIS_100_  Manner of death - Unknown,o1hG9vr0peF,,TRU ONLY
+HMIS_100_  Manner of death - external cause or poisoning,AZSlwlRAFig,,TRU ONLY
+HMIS_100_  Date of Injury If external cause or poisoning,U18Tnfz9EKd,,DATE
+HMIS_100_  Please describe how external cause occurred (If poisoning please specify poisoning agent),DKlOhZJOCrX,,TEXT
+HMIS_100_  Place of occurrence of the external cause,kGIDD5xIeLC,,TEXT
+HMIS_100_  Multiple pregnancy,V4rE1tsj5Rb,,TEXT
+HMIS_100_  Stillborn?,ivnHp4M4hFF,,TEXT
+HMIS_100_  If death within 24h specify number of hours survived,jf9TogeSZpk,,NUMBER
+HMIS_100_  Birth weight (in grams),xAWYJtQsg8M,,NUMBER
+HMIS_100_  Number of completed weeks of pregnancy,lQ1Byr04JTx,,NUMBER
+HMIS_100_  Age of mother (years),DdfDMFW4EJ9,,NUMBER
+"HMIS_100_  If death was perinatal, please state conditions of mother that affected the fetus and newborn",GFVhltTCG8b,,TEXT
+"HMIS_100_  If yes, at what point in time was deceased pregnant?",KpfvNQSsWIw,,TEXT
+HMIS_100_  Did the pregnancy contribute to the death?,AJAraEcfH63,,TEXT
+HMIS_100_  Parity,ymyLrfEcYkD,,NUMBER
+HMIS_100_  Mode of delivery,K5BDPJQk1BP,,TEXT
+HMIS_100_  Delivered by skilled attendant,uaxjt0inPNF,,TEXT
+HMIS_100_  I attended the deceased before death,Kz29xNOBjsJ,,TRU ONLY
+HMIS_100_  I examined the body after death,ZXZZfzBpu8a,,TRU ONLY
+HMIS_100_  I conducted the post mortem of the body,cp5xzqVU2Vw,,TRU ONLY
+HMIS_100_  other (specify),lu9BiHPxNqH,,TEXT
+HMIS_100_  Examined_by,PaoRZbokFWJ,,TEXT
+HMIS_100_  Approval,twVlVWM3ffz,,TEXT
